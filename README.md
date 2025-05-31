@@ -34,23 +34,6 @@ This project is a **Spam Classifier** built using machine learning techniques in
 
 ---
 
-## 📁 Project Structure
-
-```
-Spam_Classifier/
-│
-├── data/ # Dataset CSV or text files
-├── models/ # Saved ML models (e.g., .pkl)
-├── notebooks/ # Jupyter Notebooks (for EDA or training)
-├── app/ # Web UI (Streamlit or Flask app)
-│ ├── app.py
-├── spam_classifier.py # Core training/testing script
-├── requirements.txt # Python dependencies
-├── README.md # Project readme
-```
-
----
-
 ## 📦 Installation & Usage
 
 ```bash
